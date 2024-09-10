@@ -1,4 +1,4 @@
-# Leetcode Introduction to Pandas 🚀
+# Leetcode-30-Days-of-Panda 🚀
 
 Welcome to my collection of solutions for Leetcode problems involving the Pandas library! Explore how I tackled these challenges using Pandas to enhance your data manipulation and analysis skills. 🧠💡
 
